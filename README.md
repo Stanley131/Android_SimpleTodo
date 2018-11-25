@@ -1,12 +1,12 @@
-# Pre-work - *Name of App Here*
+# Pre-work - *SimpleTodo*
 
-**Name of your app** is an android app that allows building a todo list and basic todo items management functionality including adding new items, editing and deleting an existing item.
+**SimpleTodo** is an android app that allows building a todo list and basic todo items management functionality including adding new items, editing and deleting an existing item.
 
-Submitted by: **Your Name Here**
+Submitted by: **Yuanhe Ye(Stanley)**
 
-Time spent: **X** hours spent in total
+Time spent: **10** hours spent in total
 
-## User Stories
+## Geek && Nerd = Cool projects  
 
 The following **required** functionality is completed:
 
@@ -31,7 +31,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/Stanley131/SimpleTodo/blob/master/Walkthrough.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
@@ -41,19 +41,19 @@ As part of your pre-work submission, please reflect on the app and answer the fo
 
 **Question 1:** "What are your reactions to the Android app development platform so far? Compare and contrast Android's approach to layouts and user interfaces in past platforms you've used."
 
-**Answer:** [Enter your answer here in a paragraph or two].
+**Answer:** [It is totally different with what I was thinking about Android development or any other application development in the aspects of what are the reqirements and the differences from class projects.].
 
 **Question 2:** "Take a moment to reflect on the `ArrayAdapter` used in your pre-work. How would you describe an adapter in this context and what is its function in Android? Why do you think the adapter is important? Explain the purpose of the `convertView` in the `getView` method of the `ArrayAdapter`."
 
-**Answer:** [Enter your answer here in a paragraph or two].
+**Answer:** [Data is always essential to any application projects. ArrayAdapter is a libray class or file that obtains from GUI and transfers these data back to our java code or any other language scripting to add, change, and delete them, or store them into database (manipulations).].
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+Chanlleges: In build.gride, the tutorial video about this part does not match the current versison. For a new bird, it is hard to find the right implementation version or including classes without any other instructions.  
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2018] [Yuanhe Ye(Stanley)]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
